@@ -111,5 +111,7 @@ foundation they all build on.
    (never a colab.research.google.com or drive.google.com link).
 
 ---
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamzaali-712/ML/blob/main/Copy_of_03_working_with_the_full_release.ipynb)
+
 
 *Track leads: Mirza Ašćerić (ML) · Hole (data engineering). Code under MIT (see `LICENSE`); data under `DATA_USE.md`.*
